@@ -12,7 +12,7 @@ The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_
 
 The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
 
-* Paragraphs.
+* ---Paragraphs---.
 * ---Headers.---
 * ---Links between the markdown pages.---
 * ---Links to other web sites.---
