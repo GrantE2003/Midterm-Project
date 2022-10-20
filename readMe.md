@@ -5,4 +5,6 @@
 
 # **Home**
 
-
+Thank you for visiting my page.
+Styling is currently under devlopment, but feel free to naviagate the pages and learn more about me.
+Thanks!
