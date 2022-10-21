@@ -17,7 +17,7 @@ The information that you present on the markdown pages is up to you. But, it mus
 * ---Links between the markdown pages.---
 * ---Links to other web sites.---
 * One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
+* ---One or more images that are hosted elsewhere on the web.---
 * ---A list.---
 * ---Some text that is bolded.---
 * ---Some text that is italicized.---
